@@ -1,2 +1,2 @@
 [lfs]
-	url = https://zyh:123456aa@gitlab.test.com/lfs/test-largefile.git/info/lfs
+	url = https://test:123456aa@gitlab.test.com/lfs/test-largefile.git/info/lfs
